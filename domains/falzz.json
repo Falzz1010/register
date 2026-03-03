@@ -2,12 +2,16 @@
   "repo": "https://github.com/Falzz1010/portofoliome-naufal",
   "owner": {
     "username": "Falzz1010",
-    "email": "setiawandandy845@gmail.com "
+    "email": "setiawandandy845@gmail.com"
   },
   "target": {
     "CNAME": {
       "name": "falzz",
       "value": "cname.vercel-dns.com"
+    },
+    "TXT": {
+      "name": "_vercel",
+      "value": "vc-domain-verify=falzz.is-a.dev,48d9c93a57f977d888b0"
     }
   },
   "proxied": false
